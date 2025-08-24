@@ -693,8 +693,8 @@
     "group": "HXWEB,- HX"
   },
   {
-    "site": "ptskit",
-    "nickname": "ptskit",
+    "site": "PTSkit",
+    "nickname": "PTSkit",
     "base_url": "www.ptskit.org",
     "special_tracker_domain": "kqbhek",
     "group": "[PTS]"
