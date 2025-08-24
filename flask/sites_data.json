@@ -17,7 +17,7 @@
     "site": "m-team",
     "nickname": "馒头",
     "base_url": "kp.m-team.cc",
-    "special_tracker_domain": null,
+    "special_tracker_domain": "manfuz",
     "group": "MWeb,MTeam,PTTV"
   },
   {
@@ -67,7 +67,7 @@
     "nickname": "他吹吹风",
     "base_url": "et8.org",
     "special_tracker_domain": null,
-    "group": null
+    "group": "BMDru"
   },
   {
     "site": "ttg",
@@ -87,8 +87,8 @@
     "site": "hdcity",
     "nickname": "城市",
     "base_url": "hdcity.city",
-    "special_tracker_domain": null,
-    "group": null
+    "special_tracker_domain": "leniter",
+    "group": "-NoVA"
   },
   {
     "site": "nicept",
@@ -116,7 +116,7 @@
     "nickname": "不可说",
     "base_url": "springsunday.net",
     "special_tracker_domain": null,
-    "group": "CMCT,CMCTV"
+    "group": "CMCT,CMCTV,7³ACG,Telesto,-shadow610"
   },
   {
     "site": "soulvoice",
@@ -130,7 +130,7 @@
     "nickname": "彩虹岛",
     "base_url": "ptchdbits.co",
     "special_tracker_domain": null,
-    "group": "CHDBits"
+    "group": "CHDBits,CHDWEB,-CHD"
   },
   {
     "site": "ptsbao",
@@ -151,7 +151,7 @@
     "nickname": "时光HDT",
     "base_url": "hdtime.org",
     "special_tracker_domain": null,
-    "group": null
+    "group": "HDtime"
   },
   {
     "site": "1ptba",
@@ -165,21 +165,21 @@
     "nickname": "兽",
     "base_url": "pt.hd4fans.org",
     "special_tracker_domain": null,
-    "group": null
+    "group": "-beAst"
   },
   {
     "site": "opencd",
     "nickname": "皇后",
     "base_url": "open.cd",
     "special_tracker_domain": null,
-    "group": null
+    "group": "OpenCD"
   },
   {
     "site": "joyhd",
     "nickname": "开心",
     "base_url": "www.joyhd.net",
     "special_tracker_domain": null,
-    "group": null
+    "group": "JoyHD"
   },
   {
     "site": "dmhy",
@@ -214,13 +214,13 @@
     "nickname": "北邮人",
     "base_url": "byr.pt",
     "special_tracker_domain": null,
-    "group": null
+    "group": "BYRHD"
   },
   {
     "site": "dicmusic",
     "nickname": "海豚",
     "base_url": "dicmusic.com",
-    "special_tracker_domain": null,
+    "special_tracker_domain": "52dic",
     "group": null
   },
   {
@@ -295,10 +295,10 @@
   },
   {
     "site": "audiences",
-    "nickname": "观众",
+    "nickname": "人人",
     "base_url": "audiences.me",
     "special_tracker_domain": null,
-    "group": "ADE,Audies"
+    "group": "ADE,Audies,ADWeb"
   },
   {
     "site": "piggo",
@@ -326,14 +326,14 @@
     "nickname": "自由农场",
     "base_url": "pt.0ff.cc",
     "special_tracker_domain": null,
-    "group": null
+    "group": "FFweb"
   },
   {
     "site": "redleaves",
     "nickname": "红叶",
     "base_url": "leaves.red",
     "special_tracker_domain": null,
-    "group": null
+    "group": "-RL"
   },
   {
     "site": "ptchina",
@@ -354,20 +354,20 @@
     "nickname": "织梦",
     "base_url": "zmpt.cc",
     "special_tracker_domain": null,
-    "group": "ZmWeb,ZmAudio,"
+    "group": "ZmWeb,ZmAudio,ZmPT"
   },
   {
     "site": "rousi",
     "nickname": "肉丝",
     "base_url": "rousi.zip",
-    "special_tracker_domain": "rousipt.com",
+    "special_tracker_domain": "rousipt",
     "group": null
   },
   {
     "site": "monikadesign",
     "nickname": "莫妮卡",
     "base_url": "monikadesign.uk",
-    "special_tracker_domain": "anime-no-index.com",
+    "special_tracker_domain": "anime-no-index",
     "group": null
   },
   {
@@ -410,7 +410,7 @@
     "nickname": "影",
     "base_url": "star-space.net",
     "special_tracker_domain": null,
-    "group": null
+    "group": "-YingWEB"
   },
   {
     "site": "agsvpt",
@@ -452,13 +452,13 @@
     "nickname": "爱萝莉",
     "base_url": "share.ilolicon.com",
     "special_tracker_domain": null,
-    "group": null
+    "group": "LoliHouse"
   },
   {
     "site": "gtkpw",
     "nickname": "GTK",
     "base_url": "pt.gtk.pw",
-    "special_tracker_domain": "pt.gtkpw.xyz",
+    "special_tracker_domain": "gtkpw",
     "group": null
   },
   {
@@ -494,7 +494,7 @@
     "nickname": "杜比",
     "base_url": "www.hddolby.com",
     "special_tracker_domain": null,
-    "group": "QHstudIo,Dream,DBTV,CornerMV"
+    "group": "QHstudIo,-Dream,DBTV,CornerMV"
   },
   {
     "site": "kamept",
@@ -528,15 +528,15 @@
     "site": "ptlgs",
     "nickname": "劳改所",
     "base_url": "ptlgs.org",
-    "special_tracker_domain": null,
+    "special_tracker_domain": "ptl",
     "group": "DYZ-Movie,DYZ-WEB,DYZ-TV,DJWEB"
   },
   {
     "site": "lemonhd",
     "nickname": "柠檬不酸",
     "base_url": "lemonhd.club",
-    "special_tracker_domain": null,
-    "group": null
+    "special_tracker_domain": "ilovelemonhd.me",
+    "group": "-LHD"
   },
   {
     "site": "njtupt",
@@ -554,7 +554,7 @@
   },
   {
     "site": "hdclone",
-    "nickname": "hdclone",
+    "nickname": "HDClone",
     "base_url": "pt.hdclone.org",
     "special_tracker_domain": null,
     "group": null
@@ -644,7 +644,7 @@
     "group": "TangPT,Tangweb"
   },
   {
-    "site": "myptcc",
+    "site": "mypt",
     "nickname": "我的PT",
     "base_url": "cc.mypt.cc",
     "special_tracker_domain": null,
@@ -669,7 +669,7 @@
     "nickname": "13city",
     "base_url": "13city.org",
     "special_tracker_domain": null,
-    "group": null
+    "group": "13City"
   },
   {
     "site": "luckpt",
@@ -696,7 +696,7 @@
     "site": "ptskit",
     "nickname": "ptskit",
     "base_url": "www.ptskit.org",
-    "special_tracker_domain": "ptskit.kqbhek.com",
+    "special_tracker_domain": "kqbhek",
     "group": "[PTS]"
   },
   {
@@ -711,12 +711,76 @@
     "nickname": "东京",
     "base_url": "www.tokyopt.xyz",
     "special_tracker_domain": null,
-    "group": "Sakurato,EastWeb"
+    "group": "EastWeb"
   },
   {
     "site": "Lajidui",
     "nickname": "垃圾堆",
     "base_url": "pt.lajidui.top",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "VCB-Studio",
+    "nickname": "VCB-Studio",
+    "base_url": "VCB-Studio",
+    "special_tracker_domain": null,
+    "group": "VCB-Studio"
+  },
+  {
+    "site": "BeiTai",
+    "nickname": "备胎",
+    "base_url": "BeiTai",
+    "special_tracker_domain": null,
+    "group": "-BeiTai"
+  },
+
+  {
+    "site": "azusa",
+    "nickname": "喵",
+    "base_url": "azusa.wiki",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "JPop",
+    "nickname": "鸡婆婆",
+    "base_url": "jpopsuki.eu",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "playletpt",
+    "nickname": "playlet",
+    "base_url": "playletpt.xyz",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "duckboobee",
+    "nickname": "三月传媒",
+    "base_url": "duckboobee.org",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "HDBao",
+    "nickname": "红豆包",
+    "base_url": "hdbao.cc",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "LongPT",
+    "nickname": "龙PT",
+    "base_url": "longpt.org",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "Aling",
+    "nickname": "爱玲",
+    "base_url": "pt.aling.de",
     "special_tracker_domain": null,
     "group": null
   }
