@@ -783,5 +783,110 @@
     "base_url": "pt.aling.de",
     "special_tracker_domain": null,
     "group": null
+  },
+  {
+    "site": "CD",
+    "nickname": "CD",
+    "base_url": "pt.cdfile.org",
+    "special_tracker_domain": null,
+    "group": "cdfile"
+  },
+  {
+    "site": "TU88",
+    "nickname": "TU88",
+    "base_url": "pt.tu88.men",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "UltraHD",
+    "nickname": "UltraHD",
+    "base_url": "ultrahd.net",
+    "special_tracker_domain": null,
+    "group": "UltraHD, AHDBits, UltraTV"
+  },
+  {
+    "site": "52movie",
+    "nickname": "52movie",
+    "base_url": "www.52movie.top",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "PTFans",
+    "nickname": "PTFans",
+    "base_url": "ptfans.cc",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "tey",
+    "nickname": "太乙",
+    "base_url": "pt.tey.cc",
+    "special_tracker_domain": null,
+    "group": "Tey"
+  },
+  {
+    "site": "itzmx",
+    "nickname": "itzmx",
+    "base_url": "pt.itzmx.com",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "Sunny",
+    "nickname": "Sunny",
+    "base_url": "sunnypt.top",
+    "special_tracker_domain": "sunnytk",
+    "group": "Sunny"
+  },
+  {
+    "site": "ying",
+    "nickname": "樱花",
+    "base_url": "pt.ying.us.kg",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "NovaHD",
+    "nickname": "NovaHD",
+    "base_url": "pt.novahd.top",
+    "special_tracker_domain": null,
+    "group": "NHDWeb"
+  },
+  {
+    "site": "SBPT",
+    "nickname": "SBPT",
+    "base_url": "sbpt.link",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "jivon",
+    "nickname": "未来幻境",
+    "base_url": "nex.jivon.de",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "YHPP",
+    "nickname": "YHPP",
+    "base_url": "www.yhpp.cc",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "ASMR",
+    "nickname": "ASMR",
+    "base_url": "www.asmrpt.org",
+    "special_tracker_domain": null,
+    "group": null
+  },
+  {
+    "site": "TorrentHub",
+    "nickname": "TorrentHub",
+    "base_url": "torrenthub.club",
+    "special_tracker_domain": null,
+    "group": null
   }
 ]
